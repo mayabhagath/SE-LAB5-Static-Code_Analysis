@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:117:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:125:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.79/10 (previous run: 9.69/10, +0.10)
+
